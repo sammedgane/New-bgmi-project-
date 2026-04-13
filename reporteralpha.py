@@ -284,7 +284,7 @@ def show_help(message):
 To See Admin Commands:
 /admincmd : Shows All Admin Commands.
 
-Buy From :- @ReporterAlpha
+Buy From :- @sammedgane1
 '''
     for handler in bot.message_handlers:
         if hasattr(handler, 'commands'):
